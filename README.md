@@ -1,3 +1,7 @@
+# Cheat Sheets
+https://assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf
+https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
+
 # machine-learning
 
 ## Courses
