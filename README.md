@@ -41,3 +41,15 @@ https://www.coursera.org/specializations/machine-learning?ranMID=40328&ranEAID=v
 
 ## Pandas Profiling
 https://github.com/pandas-profiling/pandas-profiling
+
+
+
+pd.set_option('display.max_colwidth',1000)
+pd.set_option('display.max_rows', 500)
+pd.set_option('display.max_columns', 500)
+pd.set_option('display.width', 1000)
+
+
+data = pd.read_csv('../../datasets/titanic/train.csv')
+data['Name'] = data['Name'].str.replace('\,|\.|\(|\)|Mr|Jr|Dr|Rev|\"|Master', '')
+pd.value_counts(data[(data['Sex'] == 'male')]['Name'].apply(lambda x: x.split(' ')).sum(axis=0), sort=True).head(10)
