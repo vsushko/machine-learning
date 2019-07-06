@@ -1,3 +1,5 @@
+https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_russian/topic01_pandas_data_analysis/lesson1_practice_pandas_titanic.ipynb
+
 # Other
 http://datareview.info/article/universalnyj-podxod-pochti-k-lyuboj-zadache-mashinnogo-obucheniya/#comment-157959
 
