@@ -1,3 +1,10 @@
+# Awesome Machine Learning
+
+Конференции
+
+Конференция NIPS (nips.cc)
+Конференция Icml (icml.cc)
+
 https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_russian/topic01_pandas_data_analysis/lesson1_practice_pandas_titanic.ipynb
 
 # Other
