@@ -1,3 +1,14 @@
+Libraries:
+ScalNet - https://github.com/eclipse/deeplearning4j/tree/master/scalnet?fbclid=IwAR01enpe_dySCpU1aPkMorznm6k31cDmQ49wE52_jAGQzcr-3CZs9NNSVas
+Examples - https://github.com/deeplearning4j/ScalNet/tree/master/src/test/scala/org/deeplearning4j/scalnet/examples?fbclid=IwAR2uMjTESm9KHAIZ_mZCHckZhRuZJByhmAbQDoUAn1vCVC1SoE0KmKDmQ9M
+
+ScalaNLP, Vegas, and Breeze:
+https://github.com/scalanlp/breeze/
+Breeze examples - https://github.com/scalanlp/breeze-examples
+Breeze quickstart - https://github.com/scalanlp/breeze/wiki/Quickstart
+Vegas - https://github.com/vegas-viz/Vegas
+
+
 # Awesome Machine Learning
 
 Конференции
